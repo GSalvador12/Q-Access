@@ -17,3 +17,5 @@ Quick-Access is a free application launcher whose main features are:
 <img width="1366" height="768" alt="qaccess-en-5" src="https://github.com/user-attachments/assets/2032263f-fdd5-474d-8731-f1b9aef96305" />
 
 * Go to 'Preferences' and click 'Full mode' to enable all options during sixty minutes.
+
+Watch in youtube: https://youtu.be/-jmn4PTa7y4
