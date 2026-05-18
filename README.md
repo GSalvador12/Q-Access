@@ -12,6 +12,8 @@ Quick-Access is a free application launcher whose main features are:
 
 • Available for Windows 7, 8, and 10.
 
+• Mini-mp3 reproductor
+
 • The application does not take up space on the taskbar, but remains as resident program with a visible and easy-to-reach icon.
 
 <img width="1366" height="768" alt="qaccess-en-5" src="https://github.com/user-attachments/assets/2032263f-fdd5-474d-8731-f1b9aef96305" />
