@@ -1,4 +1,4 @@
-# Q-Access v.3.10
+# Q-Access
 
 Quick-Access is a free application launcher whose main features are:
 
